@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Post with Images"
+title: "A Post with Images test"
 description: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 categories: [sample, intro]
