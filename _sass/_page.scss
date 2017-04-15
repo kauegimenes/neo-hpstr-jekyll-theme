@@ -470,9 +470,9 @@ ul.social-buttons li a:active {
 	height: 100%;
 	overflow: hidden;
 	height: 50px;
-	background-color: $header-color;
+	background-color: #263238;
 	@media #{$medium} {
-		background-color: $header-color;
+		background-color: #263238;
 		min-height: 300px;
 	}
 }
@@ -490,6 +490,7 @@ ul.social-buttons li a:active {
 	margin-top: 0;
 	width: 100%;
 	overflow: hidden;
+	background-color: #263238;
 	.header-title-wrap {
 		display: table-cell;
 		vertical-align: middle;
@@ -549,7 +550,7 @@ ul.social-buttons li a:active {
 }
 
 .header-menu-overflow{
-	background-color: $menu-overflow;
+	background-color: #263238;
 	z-index: 100;
 	box-shadow: 0px 6px 5px rgba(0, 0, 0, 0.4);
 }
